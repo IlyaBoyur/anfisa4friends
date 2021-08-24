@@ -12,6 +12,7 @@ pip install -r requirements.txt
 ``` 
 - In folder with 'manage.py' run:
 ```
+python3 manage.py migrate
 python3 manage.py runserver
 ```
 ### Authors
