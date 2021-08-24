@@ -1,18 +1,18 @@
-# Анфиса для друзей
-### Описание
-Благодаря этому проекту можно будет угощать мороженым друзей из разных городов.
-### Технологии
+# Anfisa for friends
+### Description
+Thanks to that project we can regale friends with ice cream all around the world.
+### Technologies
 Python 3.7
 Django 2.2.19
 ### Запуск проекта dev-режиме
-- Создайте и активируйте виртуальное окружение
-- Установите зависимости из файла requirements.txt
+- Create and activate virtual environment
+- Install dependencies from 'requirements.txt'
 ```
 pip install -r requirements.txt
 ``` 
-- В папке с файлом manage.py выполните команду:
+- In folder with 'manage.py' run:
 ```
 python3 manage.py runserver
 ```
-### Авторы
-Андрей, Стёпа, Лера и Максим
+### Authors
+Andrew, Stepan, Lera, Maksim and Ilya
