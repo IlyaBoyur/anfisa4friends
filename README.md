@@ -4,7 +4,7 @@ Thanks to that project we can regale friends with ice cream all around the world
 ### Technologies
 Python 3.7
 Django 2.2.19
-### Запуск проекта dev-режиме
+### Simple startup in dev-mode
 - Create and activate virtual environment
 - Install dependencies from 'requirements.txt'
 ```
