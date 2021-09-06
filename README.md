@@ -1,12 +1,15 @@
 # Anfisa for friends
 ### Description
-Thanks to that project we can regale friends with ice cream all around the world.
+Thanks to this project we can regale friends with icecream all around the world.
+
 ### Technologies
-Python 3.7
-Django 2.2.19
+Python 3.7, Django 2.2.19
+
+<br> 
+
 ### Simple startup in dev-mode
 - Create and activate virtual environment
-- Install dependencies from 'requirements.txt'
+- Install dependencies from 'requirements.txt':
 ```
 pip install -r requirements.txt
 ``` 
