@@ -19,4 +19,4 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 ### Authors
-Andrew, Stepan, Lera, Maksim and Ilya
+Andrew, Stepan, Lera, Maksim and [Ilya](https://github.com/IlyaBoyur)
