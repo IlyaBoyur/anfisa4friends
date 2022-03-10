@@ -11,8 +11,8 @@ Python 3.7, Django 2.2.19
 1) Create and activate virtual environment:
 ```bash
 python -m venv venv
-python source venv/bin/activate
-# or python source venv/Scripts/activate for Windows (Bash)
+source venv/bin/activate
+# or source venv/Scripts/activate for Windows (Bash)
 ``` 
 
 2) Install dependencies:
