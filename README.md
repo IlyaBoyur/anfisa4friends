@@ -8,13 +8,21 @@ Python 3.7, Django 2.2.19
 <br> 
 
 ### Simple startup in dev-mode
-- Create and activate virtual environment
-- Install dependencies from 'requirements.txt':
-```
-pip install -r requirements.txt
+1) Create and activate virtual environment:
+```bash
+python -m venv venv
+python source venv/bin/activate
+# or python source venv/Scripts/activate for Windows (Bash)
 ``` 
-- In folder with 'manage.py' run:
+
+2) Install dependencies:
+```bash
+pip install -r requirements.txt
 ```
+
+3) Go to folder with 'manage.py' and start server:
+```bash
+cd anfisa
 python3 manage.py migrate
 python3 manage.py runserver
 ```
