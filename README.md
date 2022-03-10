@@ -1,6 +1,7 @@
 # Anfisa for friends
 ### Description
 Thanks to this project we can regale friends with icecream all around the world.
+This is a simplest possible Django Framework demonstration project
 
 ### Technologies
 Python 3.7, Django 2.2.19
